@@ -2,6 +2,7 @@
 
 const Homepage = () => {
   return (
+    
    <div className="flex w-screen h-screen relative overflow-hidden text-[16px]  text-white">
   <div className="flex-none w-1/3 bg-no-repeat bg-center bg-cover" style={{ backgroundImage: 'url("/images/bg-main-desktop.png")' }}></div>
   <div className="flex-auto bg-white"></div>
@@ -13,6 +14,7 @@ const Homepage = () => {
     </div>
     {/*  */}
     <div className=" mt-[5rem] text-white font-semibold text-2xl flex gap-2 tracking-[10px]  ">
+      <h1>hehe</h1>
       <h1 >0000</h1>
       <h1>0000</h1>
       <h1>0000</h1>
